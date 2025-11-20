@@ -67,7 +67,7 @@ I’ll keep updating this repo regularly as I solve more problems.
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 1      |
-| Medium     | 1      |
+| Medium     | 2      |
 | Hard       |        |
 
 (These will update over time.)
