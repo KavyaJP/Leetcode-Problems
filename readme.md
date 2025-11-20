@@ -25,21 +25,6 @@ Each solution includes:
 
 ## Repository Structure
 
-```
-leetcode-solutions
-┣  arrays
-┣  strings
-┣  dp
-┣  trees
-┣  graphs
-┣  math
-┣  binary-search
-┣  hashing
-┣  sliding-window
-┣  two-pointers
-┗ README.md
-```
-
 Structure may vary based on the style I stick to, but in general:
 
 - **Each folder = one category**
