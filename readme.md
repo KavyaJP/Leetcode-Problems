@@ -53,7 +53,7 @@ I’ll keep updating this repo regularly as I solve more problems.
 | ---------- | ------ |
 | Easy       | 2      |
 | Medium     | 2      |
-| Hard       |        |
+| Hard       | 1      |
 
 (These will update over time.)
 
