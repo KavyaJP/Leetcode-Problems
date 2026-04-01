@@ -52,7 +52,7 @@ I’ll keep updating this repo regularly as I solve more problems.
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 4      |
-| Medium     | 3      |
+| Medium     | 4      |
 | Hard       | 1      |
 
 (These will update over time.)
